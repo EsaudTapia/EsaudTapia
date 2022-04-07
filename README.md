@@ -7,7 +7,6 @@
   </a>
   <br>
   <br>
-  <br>
    <a align="rigth"  href="https://github.com/EsaudTapia" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/EsaudTapia?label=Mr.Tapia-lll&style=social">
   </a>
