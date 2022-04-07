@@ -1,9 +1,9 @@
 ![Banner Git](https://raw.githubusercontent.com/EsaudTapia/EsaudTapia/main/assets/banner.jpg)
 <div>
-  <h1 align="center">Quien Soy? Mi nombre es <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Yohac Esaud Tapia</i></a> 😃️</h1>
+  <h1 align="center">Quien Soy? Mi nombre es <a href="https://www.linkedin.com/in/esaudtapia/"><i>Yohac Esaud Tapia</i></a> 😃️</h1>
   <p align="center">Estudio desarrollo de software multiplataforma en la UTL <a href="https://www.utleon.edu.mx/"><i>nomrmalmente</i></a> en este canal comparto algunos de mis trabajos <a href="https://www.youtube.com/channel/UCl4wZ8Fr-5_eBCC6BMFBm4w"><i>YouTube</i></a><span> 👉🏽️</span>
   <a align="rigth"  href="https://www.youtube.com/channel/UCl4wZ8Fr-5_eBCC6BMFBm4w?sub_confirmation=1" target="_blank">
-    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=iCode&style=social  " target="_blank" />
+    <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCl4wZ8Fr-5_eBCC6BMFBm4ws?label=iCode&style=social  " target="_blank" />
   </a><br>
   <p align="center">Mas abajo anexo mis Skills y redes sociales 😉️</h2>
 </div>
