@@ -6,6 +6,8 @@
     <img width="10%" align="center" valign="middle" src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=EsaudTapia&style=social  " target="_blank" />
   </a>
   <br>
+  <br>
+  <br>
    <a align="rigth"  href="https://github.com/EsaudTapia" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/EsaudTapia?label=Mr.Tapia-lll&style=social">
   </a>
@@ -38,6 +40,9 @@
   <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
   <a href="https://www.linkedin.com/in/esaudtapia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:esaudjp155@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="https://esaudtapia.github.io/" target="_blank"><img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/esaud%20tapia?label=Portafolio&logo=s&style=social"></a> 
+  
 </div>
 
 <div align="center">
