@@ -22,8 +22,14 @@
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
 <div align="center">
- 
-![Esaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsaudTapia&hide=issues&show_icons=true)
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/EsaudTapia">
+    ![Esaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsaudTapia&hide=issues&show_icons=true)
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
 
