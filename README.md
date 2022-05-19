@@ -23,7 +23,7 @@
 
 <div align="center">
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Esaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsaudTapia&hide=issues&show_icons=true)
 </div>
 
 
