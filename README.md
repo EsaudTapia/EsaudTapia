@@ -25,11 +25,7 @@
 ![Esaud's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsaudTapia&hide=issues&show_icons=true)
 </div>
 
-<div align="center">
-  <a href="https://github.com/EsaudTapia">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+
 
 
 <div align="center" valign="top"><br>
